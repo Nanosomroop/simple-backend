@@ -1,0 +1,47 @@
+{
+  "name": "The Gourmet Kitchen",
+  "location": "123 Foodie St, Flavor Town",
+  "cuisine": "International",
+  "menu": [
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "description": "Classic Italian pasta with eggs, cheese, pancetta, and pepper.",
+      "price": 12.99,
+      "vegetarian": false,
+      "gluten_free": false
+    },
+    {
+      "id": 2,
+      "name": "Margherita Pizza",
+      "description": "Fresh tomato sauce, mozzarella cheese, and basil.",
+      "price": 10.99,
+      "vegetarian": true,
+      "gluten_free": false
+    },
+    {
+      "id": 3,
+      "name": "Caesar Salad",
+      "description": "Crisp romaine lettuce, croutons, and Caesar dressing.",
+      "price": 8.99,
+      "vegetarian": false,
+      "gluten_free": false
+    },
+    {
+      "id": 4,
+      "name": "Grilled Vegetable Panini",
+      "description": "Grilled seasonal vegetables with pesto on ciabatta.",
+      "price": 9.99,
+      "vegetarian": true,
+      "gluten_free": false
+    },
+    {
+      "id": 5,
+      "name": "Chocolate Lava Cake",
+      "description": "Decadent chocolate cake with a molten center.",
+      "price": 6.99,
+      "vegetarian": true,
+      "gluten_free": false
+    }
+  ]
+}
